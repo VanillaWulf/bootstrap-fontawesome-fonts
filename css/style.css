@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 400;
+    src: url("../fonts/roboto-medium.woff"), url("../fonts/roboto-medium.woff2");
+}
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 400;
+    src: url("../fonts/roboto-medium.woff"), url("../fonts/roboto-medium.woff2");
+}
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    src: url("../fonts/roboto-medium.woff"), url("../fonts/roboto-medium.woff2");
+}
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 800;
+    src: url("../fonts/roboto-bold.woff2"), url("../fonts/bold");
+}
+
+.btn-danger {
+    background-color: #f16d7f;
+}
+
+.icon {
+    color: red;
+    font-size: 80px;
+}
+
+body {
+    font-family: 'Roboto', 'Arial', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+}
